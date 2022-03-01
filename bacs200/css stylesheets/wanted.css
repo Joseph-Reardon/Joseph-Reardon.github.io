@@ -1,0 +1,57 @@
+/* CSS Document */
+h1, h2, h3, p {
+    text-align: center;
+    text-decoration:underline;
+    line-height: 0.15em;
+}
+h1{
+    font-size:90pt;
+    font-weight:bold;
+    font-family:Brush Script MT, Brush Script Std, cursive;
+    margin-bottom:60px;
+}
+body{
+    background-color:rgb(231,207,138);
+
+}
+header {
+    background-color: rgb(259,222,140);
+    border: 1px solid #FFB600;
+    margin: 50px 250px;
+}
+h3{
+        font-size:30pt;
+    word-spacing:-3pt;
+    }
+.name {
+    font-family: Stencil Std, fantasy;
+    text-decoration:none;
+    font-size:40pt;
+}
+
+h2{
+    text-align:left;
+    line-height: 1em;
+    font-size: 50pt;
+    padding-left:250px;
+
+}
+ol{
+    font-size: 30pt;
+    float:right;
+    padding-right:25pt;
+    margin-top:-30pt;
+    font-family: Impact, fantasy;
+}
+body img{
+    float:right;
+    padding-right: 200px;
+    position: relative;
+    top:-125px;
+    max-height:500pt;
+}
+footer p{
+    margin-top:350px;
+    text-decoration:none;
+}
+
