@@ -1,0 +1,12 @@
+/* CSS Document */
+/* body and non title needs */
+@font-face{
+    font-family:'Merriweather';
+    src:url(fonts/Merriweather-Regular.ttf) format('truetype');
+}
+/* Title needs */
+@font-face{
+    font-family:'Spartan';
+    src:url(fonts/Spartan-VariableFont_wght.ttf) format('truetype');
+}
+/* stylesheet link:  <link rel="stylesheet" href="css stylesheets/base.css">   */
