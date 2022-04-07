@@ -38,17 +38,18 @@ h2{
 }
 ol{
     font-size: 30pt;
-    float:right;
+   /* float:right; */
     padding-right:25pt;
     margin-top:-30pt;
     font-family: Impact, fantasy;
 }
 body img{
-    float:right;
-    padding-right: 200px;
+    /* float:right; */
+    /* padding-right: 200px;
     position: relative;
     top:-125px;
-    max-height:500pt;
+    */
+    max-height:500pt; 
 }
 footer p{
     margin-top:350px;
